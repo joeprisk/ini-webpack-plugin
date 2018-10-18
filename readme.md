@@ -6,7 +6,7 @@ write an object of data to an ini file to be included in back end services
 ## Setup
 
 ```js
-npm i --D ini-webpack-plugin
+npm i -D ini-webpack-plugin
 ```
 
 ## Example
